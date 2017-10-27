@@ -26,7 +26,7 @@ function invertCase(text) {
       tempString += lower;
     }
   }
-  return text;
+  return tempString;
 }
 
 
